@@ -40,62 +40,62 @@
   </header>
   <center><div class="cartelera"><i class="fa fa-film" style="font-size:60px;color:rgb(170, 19, 19)"></i> <b>EN CARTELERA</b></div></center>
   <div class="peli1">
-  <a href="peli1.html"><img src="img/peli1.jpg" alt="" width="400px" height="500px"></a>
+  <a href="peli1.php"><img src="img/peli1.jpg" alt="" width="400px" height="500px"></a>
   <div class="p1" style= "background-color: black"><center><FONT color="white" class="parrafo"><h2><b>JURASSIC WORLD</b></h2></FONT></center></div>
   </div>
   <br>z
   <br>
   <div class="peli2">
-  <a href="peli2.html"><img src="img/peli2.jpg" alt="" width="400px" height="500px"></a>
+  <a href="peli2.php"><img src="img/peli2.jpg" alt="" width="400px" height="500px"></a>
   <div class="p1" style= "background-color: black"><center><FONT color="white" class="parrafo"><h2><b>LIGHT YEAR</b></h2></FONT></center></div>
   </div>
   <br>
   <br>
 
   <div class="peli3">
-  <a href="peli3.html"><img src="img/peli3.jpg" alt="" width="400px" height="500px"></a>
+  <a href="peli3.php"><img src="img/peli3.jpg" alt="" width="400px" height="500px"></a>
   <div class="p1" style= "background-color: black"><center><FONT color="white" class="parrafo"><h2><b>TELÉFONO NEGRO</b></h2></FONT></center></div>
   </div>
   <br>
   <br>
 
   <div class="peli4">
-  <a href="peli4.html"><img src="img/peli4.jpg" alt="" width="400px" height="500px"></a>
+  <a href="peli4.php"><img src="img/peli4.jpg" alt="" width="400px" height="500px"></a>
   <div class="p1" style= "background-color: black"><center><FONT color="white" class="parrafo"><h2><b>EL CUARTO 666</b></h2></FONT></center></div>
   </div>
   <br>
   <br>
 
   <div class="peli5">
-  <a href="peli5.html"><img src="img/peli5.jpg" alt="" width="400px" height="500px"></a>
+  <a href="peli5.php"><img src="img/peli5.jpg" alt="" width="400px" height="500px"></a>
   <div class="p1" style= "background-color: black"><center><FONT color="white" class="parrafo"><h2><b>THOR: AMOR Y TRUENO</b></h2></FONT></center></div>
   </div>
   <br>
   <br>
   
   <div class="peli6">
-  <a href="peli6.html"><img src="img/peli6.jpg" alt="" width="400px" height="500px"></a>
+  <a href="peli6.php"><img src="img/peli6.jpg" alt="" width="400px" height="500px"></a>
   <div class="p1" style= "background-color: black"><center><FONT color="white" class="parrafo"><h2><b>MINIONS: NACE UN VILLANO</b></h2></FONT></center></div>
   </div>
   <br>
   <br>
 
   <div class="peli7">
-  <a href="peli7.html"><img src="img/peli7.jpg" alt="" width="400px" height="500px"></a>
+  <a href="peli7.php"><img src="img/peli7.jpg" alt="" width="400px" height="500px"></a>
   <div class="p1" style= "background-color: black"><center><FONT color="white" class="parrafo"><h2><b>INVOCANDO AL DEMONIO</b></h2></FONT></center></div>
   </div>
   <br>
   <br>
 
   <div class="peli8">
-  <a href="peli8.html"><img src="img/peli8.jpg" alt="" width="400px" height="500px"></a>
+  <a href="peli8.php"><img src="img/peli8.jpg" alt="" width="400px" height="500px"></a>
   <div class="p1" style= "background-color: black"><center><FONT color="white" class="parrafo"><h2><b>ELVIS</b></h2></FONT></center></div>
   </div>
   <br>
   <br>
 
   <div class="peli9">
-  <a href="peli9.html"><img src="img/peli9.jpg" alt="" width="400px" height="500px"></a>
+  <a href="peli9.php"><img src="img/peli9.jpg" alt="" width="400px" height="500px"></a>
   <div class="p1" style= "background-color: black"><center><FONT color="white" class="parrafo"><h2><b>DOG: UN VIAJE SALVAJE</b></h2></FONT></center></div>
   </div>
   <br>
