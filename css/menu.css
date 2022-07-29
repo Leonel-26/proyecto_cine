@@ -1,0 +1,111 @@
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap');
+
+html {
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    font-family: cursive;
+    background-color: rgba(128, 128, 128, 0.404);
+    background-size: cover;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    min-height: 0vh; 
+}
+
+/*Menu*/
+header{
+	width: 100%;
+}
+
+.logo {
+    width: 500px;
+    height: 100px;
+
+}
+
+.navegacion{
+	width: 1920px;
+	height: 100px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+	margin-right: 0px;
+	background-color: black;
+	
+}
+
+.navegacion ul{
+	list-style: none;
+}
+
+.menu > li{
+	position: relative;
+	display: inline-block;
+}
+
+.menu > li > a{
+	display: block;
+	padding: 15px 10px;
+	color: yellow;
+	font-family: cursive;
+	text-decoration: none;
+    font-size: 1.9rem;
+    font-weight: 600;
+	
+}
+
+.menu li a:hover{
+	color: rgb(170, 19, 19);
+	transition: all .3s;
+	font-family: cursive;
+}
+
+/* Submenu*/
+
+.submenu{
+	position: absolute;
+	background:#08020834 ;
+	width: 300%;
+	visibility: hidden;
+	opacity: 0;
+	transition: opacity 1.5s;
+	cursor: pointer;
+}
+
+.submenu li a{
+	display: block;
+	padding: 5px;
+	color: black;
+	font-family: 'cursive';
+	text-decoration: none;
+	font-size: 1.2rem;
+    font-weight: 800;
+}
+
+.menu li:hover .submenu{
+	visibility: visible;
+	opacity: 1;
+	cursor: pointer;
+}

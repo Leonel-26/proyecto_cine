@@ -1,0 +1,147 @@
+*{
+   margin: 0px;
+   padding: 0px;
+}
+
+/*Carousel_slider*/
+.wrapper:hover #slide {
+    transition: 1s;
+    left: 0;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 50px;
+    width: 50px;
+    outline: yellow;
+    background-color: yellow;
+    background-size: 100%, 100%;
+    border-radius: 200%;
+    border: 1px solid rgb(170, 19, 19);
+}
+.cartelera {
+    font-size: 53px;
+    background-size: cover;
+    background-color: black;
+    width: 1583px;
+    height: 110px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    color: yellow;
+    font-family: cursive;
+    float: center;
+}
+.peli1 {
+   background: none;
+   width: 400px;
+   height: 500px;
+   padding: 20px;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   margin-left: 110px;
+   margin-right: 0px;
+   cursor: pointer;
+}
+.peli2 {
+    background: none;
+    width: 400px;
+    height: 500px;
+    padding: 20px;
+    margin-top: -530px;
+    margin-bottom: 0px;
+    margin-left: 548px;
+    margin-right: 0px;
+    cursor: pointer;
+}
+.peli3 {
+    background: none;
+    width: 400px;
+    height: 500px;
+    padding: 20px;
+    margin-top: -530px;
+    margin-bottom: 0px;
+    margin-left: 1000px;
+    margin-right: 0px;
+    cursor: pointer;
+}
+.peli4 {
+    background: none;
+    width: 400px;
+    height: 500px;
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 110px;
+    margin-right: 0px;
+    cursor: pointer;
+ }
+.peli5 {
+    background: none;
+    width: 400px;
+    height: 500px;
+    padding: 0px;
+    margin-top: -510px;
+    margin-bottom: 0px;
+    margin-left: 565px;
+    margin-right: 0px;
+    cursor: pointer;
+}
+.peli6 {
+    background: none;
+    width: 400px;
+    height: 500px;
+    padding: 20px;
+    margin-top: -550px;
+    margin-bottom: 0px;
+    margin-left: 1000px;
+    margin-right: 0px;
+    cursor: pointer;
+}
+.peli7 {
+    background: none;
+    width: 400px;
+    height: 500px;
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 110px;
+    margin-right: 0px;
+    cursor: pointer;
+ }
+.peli8 {
+     background: none;
+     width: 400px;
+     height: 500px;
+     padding: 20px;
+     margin-top: -530px;
+     margin-bottom: 0px;
+     margin-left: 548px;
+     margin-right: 0px;
+     cursor: pointer;
+ }
+ .peli9 {
+     background: none;
+     width: 400px;
+     height: 500px;
+     padding: 20px;
+     margin-top: -530px;
+     margin-bottom: 0px;
+     margin-left: 1000px;
+     margin-right: 0px;
+     cursor: pointer;
+ }
+ .p1 {
+    font-size: 10px;
+    background-size: cover;
+    width: 400px;
+    height: 25px;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    font-family: cursive;
+    float: center;
+}
+
